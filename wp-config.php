@@ -36,7 +36,7 @@ define('DB_PASSWORD', 'jazztro29');
 
 /** MySQL のホスト名 */
 define('DB_HOST', '10.0.2.10');
-define('WP_SITEURL','http://52.69.190.175/');
+
 /** データベースのテーブルを作成する際のデータベースの文字セット */
 define('DB_CHARSET', 'utf8mb4');
 
